@@ -1,0 +1,37 @@
+segment_sources:
+  I164766A4:
+    type: origin_type
+    relation: translation
+    base: E661
+    lang: en
+  IBE85E4EB:
+    type: origin_type
+    relation: translation
+    base: ABBA
+    lang: pt
+  I2FC1E038:
+    type: origin_type
+    relation: translation
+    base: DF9B
+    lang: bo
+segment_pairs:
+  0a8d2d857aa243619b4b53f036d4ae5a:
+    I164766A4: e598e3ae14d743ecb1a6e852ba598a17
+    IBE85E4EB: 3fbefbe433fc48f5aa303aa59e0b5320
+    I2FC1E038: 2f8a25a08c114a8f82fa298532b7feef
+  6f556a61d20a46e49f9a275df3dfd6e0:
+    I164766A4: 5d426552bfc84f929b7fb1586b7eb558
+    IBE85E4EB: 73e1d0a6a46a4ef09a1ffaee808c9aa9
+    I2FC1E038: 3bf637b2e888489abc41ad147d385902
+  d45e5a8bcdcf4731a8f98aad4cecea17:
+    I164766A4: 9e41448886cd4d8c8a3ccad0717bd235
+    IBE85E4EB: cbb32b472a8f4287982096380612e8eb
+    I2FC1E038: 795c69a4d0184a7e907eec8be88c634b
+  6093fa431e5d40d3bfb7165515cfcca4:
+    I164766A4: a8abd69f46a044ebad2c2ea6682d8ca5
+    IBE85E4EB: d160a2b49a7140d99054c005fbf205e0
+    I2FC1E038: 93710aa2e7b64e499be4a6ff5bed85b2
+  3969cb2c8cfc4114b76c205a46499594:
+    I164766A4: f974624bd09c43eab7905b9be8eb06d0
+    IBE85E4EB: 31d533bfaa2a422895ddd2b25381ccd3
+    I2FC1E038: 95ca8c7d725f439ea21710067493bc66

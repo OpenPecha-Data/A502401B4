@@ -1,0 +1,22 @@
+id: A502401B4
+title: Prayer to Buddha Amitābha
+type: translation
+pechas:
+- I164766A4
+- IBE85E4EB
+- I2FC1E038
+source_metadata:
+  languages:
+  - en
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:43:15.917869
+  last_modified_at: 2023-01-04 11:43:15.917897
+  collections:
+  - Dodrupchen Jigme Tenpe Nyima Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I164766A4/E661: 8AF5
+  IBE85E4EB/ABBA: 8AF5
+  I2FC1E038/DF9B: 8AF5
